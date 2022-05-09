@@ -1,2 +1,2 @@
-# Statisti-ka-analiza-podataka
-Projekt statističke analize podataka
+# Statisticka-analiza-podataka
+Ovaj projekt je dio kolegija "Statička analiza podataka" na Fakultetu elektrotehnike i računarstva, Zagreb. Zadatak projekta je obaviti dubinsku analizu unaprijed pripremljenog podatkovnog skupa . Skup predstavlja model klasifikacije osobina ličnosti kojim je predložena podjela ljudskih karakteristika pet glavnih faktora (ekstraverzija, ugodnost , savjesnost , neuroticizam , otvorenost). Cilj projekta je statistički dokazati kako kultura, dob i spol mogu predstavljati ključne faktore u osobnosti pojedinca.
